@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **tudorilisoi/tudorilisoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there, I'm Tudor, looking for a 100% remote job as a fullstack JS developer(React/node)
+
 ★ bachelor's degree in computer science (2003)
+
+★ https://linkedin.com/in/tudor-ilisoi
 
 ★ http://stackoverflow.com/users/646156/tudor-ilisoi (top 15% overall at JS questions answering)
 
-★ https://github.com/tudorilisoi
-
-★ Key skills:
+### Key skills:
 
 - HTML5 developer (15+ years)
 - Javascript/ES6/ESNext (7+ years)
