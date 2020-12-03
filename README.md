@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Tudor, looking for a 100% remote job as a fullstack JS developer(React/node)
 
+<pre>
+Current location: Radauti Suceava RO 725400
+Phone: +40 737 282 174
+Email: tudorilisoi@gmail.com
+</pre>
+
 ★ **bachelor's degree in computer science** (2003)
 
 ★ https://linkedin.com/in/tudor-ilisoi
