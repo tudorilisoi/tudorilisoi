@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ★ https://linkedin.com/in/tudor-ilisoi
 
+★ https://app.pluralsight.com/profile/tudor-vasile-ilisoi
+
 ★ http://stackoverflow.com/users/646156/tudor-ilisoi (top 15% overall at JS questions answering)
 
 ### Key skills:
