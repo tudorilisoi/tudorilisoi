@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Tudor, looking for a 100% remote job as a fullstack JS developer(React/node)
 
-★ bachelor's degree in computer science (2003)
+★ **bachelor's degree in computer science** (2003)
 
 ★ https://linkedin.com/in/tudor-ilisoi
 
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 ### Key skills:
 
-- HTML5 developer (15+ years)
-- Javascript/ES6/ESNext (7+ years)
-- React.js (4+ years),
-- node.js (6+ years),
-- MySQL/PostgreSQL/MongoDB (10+ years)
-- GraphQL, API generators (Prisma, Strapi): a few months
+- **HTML5** developer (15+ years)
+- **Javascript/ES6/ESNext** (7+ years)
+- **React.js** (4+ years),
+- **node.js** (6+ years),
+- **MySQL/PostgreSQL/MongoDB** (10+ years)
+- **GraphQL**, API generators (Prisma, Strapi): a few months
 - fullstack, JAMStack, twelve-factor technologies/paradigms, Next.js application framework
-- mobile app development with ReactNative and Dart/Flutter (~1 year)
+- mobile app development with **ReactNative** and **Dart/Flutter** (~1 year)
 
 ★ Linux user (Ubuntu/Mint distributions, 10+ years)
