@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+★ bachelor's degree in computer science (2003)
+
+★ http://stackoverflow.com/users/646156/tudor-ilisoi (top 15% overall at JS questions answering)
+
+★ https://github.com/tudorilisoi
+
+★ Key skills:
+
+- HTML5 developer (15+ years)
+- Javascript/ES6/ESNext (7+ years)
+- React.js (4+ years),
+- node.js (6+ years),
+- MySQL/PostgreSQL/MongoDB (10+ years)
+- GraphQL, API generators (Prisma, Strapi): a few months
+- fullstack, JAMStack, twelve-factor technologies/paradigms, Next.js application framework
+- mobile app development with ReactNative and Dart/Flutter (~1 year)
+
+★ Linux user (Ubuntu/Mint distributions, 10+ years)
