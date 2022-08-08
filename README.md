@@ -1,5 +1,4 @@
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <h1 class="western" style="line-height: 150%;"><span style="font-family: Ubuntu;">Tudor-Vasile Ilisoi is looking for a job</span></h1>
 <p class="western" style="margin-bottom: 0in; line-height: 150%;">&nbsp;</p>
 <p class="western" style="margin-bottom: 0in; line-height: 150%;"><span style="font-family: Ubuntu;">Radauti Suceava RO 725400</span></p>
